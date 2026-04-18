@@ -5,6 +5,11 @@ Currently I'm studying BSc in Computer Science (Cyber Security), at Asia Pacific
 
 During my BSc studies I've started doing a lots of things, and in my mind I felt like I need to save them and there for here I am.
 
+## A bit of About me
+- I moved to Riyad, Saudi Arabia, when I was a kid, I studied there till class 1. 
+- Afterwards I came back to my home country Bangladesh, grew up in an Army academic Background and stuied there till my college level.
+- Then I moved to Malaysia for my Bachelor Degree.
+- Grew up in an Army academic background made me a quite displine guy and helped me to be adaptive to the real world quite fast.
 <!--
 **merciful-islam-01/merciful-islam-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
