@@ -3,7 +3,7 @@
 I'm Merciful Islam, you can call me Mercy. I'm from Bangladesh. 
 Currently I'm studying BSc in Computer Science (Cyber Security), at Asia Pacific University of Technology & Innovation in Malaysia.
 
-During my BSc studies I've started doing a lots of things, and in my mind I felt like I need to save them and there for here I am.
+During my BSc studies I've started doing a lots of things, and in my mind I felt like I need to save them and then here I am.
 
 ## A bit about me
 Past
