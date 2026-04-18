@@ -16,7 +16,7 @@ Present
 
 Future goal
 - Ich liebe Deutschland. I want to do my MSc in Cyber Security in Germany.
-- I'm learning german a little by little and the most interesting I've my own German A1 leaning language website, which is not published yet.
+- I'm learning german a little by little and the most interesting part is I built my own A1 learning website while doing it. Still unpublished, but it's ready to show. Stay tuned!.
 <!--
 **merciful-islam-01/merciful-islam-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
