@@ -7,9 +7,9 @@ During my BSc studies I've started doing a lots of things, and back in my mind I
 
 ## A bit about me
 Past
-- I moved to Riyad, Saudi Arabia, when I was a kid, I studied there till class 1. 
+- I moved to Riyad, Saudi Arabia, when I was a kid and studied there till class 1. 
 - Afterwards I came back to my home country Bangladesh, grew up in an Army academic background and studied there till my college level.
-- Grew up in an Army academic background made me a quite displine guy and helped me to be adaptive to the real world quite fast.
+- Grew up in an Army academic background made me a quite displine person and helped me to be adaptive to the real world quite fast.
 
 Present
 - I moved to Malaysia for my Bachelor Degree in Computer Science specializing in Cyber Security, at APU/APIIT, which is Malaysia's one of the top Technology University and my BSc degree is dual degree affiliated with De Montfort University (DMU), UK.
