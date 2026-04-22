@@ -18,6 +18,18 @@ Future goal
 - Ich liebe Deutschland. I want to pursue my MSc in Cyber Security in Germany.
 - Every small step counts — and building [🔗 German A1 Learning Moto](https://merciful-islam-01.github.io/german-a1-learning-website) this website was one of them.
 
+## My Projects
+- [🔗 German A1 Learning Website](https://merciful-islam-01.github.io/german-a1-learning-website)
+- [🔗 European A1 Learning Hub](https://merciful-islam-01.github.io/European-A1-Language-Hub/)
+
+## Skills
+- HTML, CSS, Python
+- Linux
+- Networking
+
+## Contact
+- Email:  <a href="mailto:merciful.islam.work@gmail.com">merciful.islam.work@gmail.com</a>
+- 
 <!--
 **merciful-islam-01/merciful-islam-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
