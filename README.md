@@ -7,16 +7,17 @@ During my BSc studies I've started doing a lots of things, and back in my mind I
 
 ## A bit about me
 Past
-- I moved to Riyad, Saudi Arabia, when I was a kid and studied there till class 1. 
-- Afterwards I came back to my home country Bangladesh, grew up in an Army academic background and studied there till my college level.
-- Grew up in an Army academic background made me a quite displine person and helped me to be adaptive to the real world quite fast.
+- Spent early childhood in Riyadh, Saudi Arabia. 
+- Returned to Bangladesh, grew up in an Army academic background which shaped my discipline and adaptability.
 
 Present
-- I moved to Malaysia for my Bachelor Degree in Computer Science specializing in Cyber Security, at APU/APIIT, which is Malaysia's one of the top Technology University and my BSc degree is dual degree affiliated with De Montfort University (DMU), UK.
+- I moved to Malaysia, pursuing my Bachelor degree in Computer Science (Cyber Security) at APU/APIIT, one of Malaysia's top tech university and took dual degree affiliated with De Montfort University (DMU), UK.
+- Learning German little by little, working toward my dream of studying in Germany.
 
 Future goal
-- Ich liebe Deutschland. I want to do my MSc in Cyber Security in Germany.
-- I'm learning German little by little and the most interesting part is I built my own A1 learning website while learning German — [🔗 German A1 Learning Moto](https://merciful-islam-01.github.io/german-a1-learning-website) .Stay tuned!.
+- Ich liebe Deutschland. I want to pursue my MSc in Cyber Security in Germany.
+- Every small step counts — and building [🔗 German A1 Learning Moto](https://merciful-islam-01.github.io/german-a1-learning-website) this website was one of them.
+
 <!--
 **merciful-islam-01/merciful-islam-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
