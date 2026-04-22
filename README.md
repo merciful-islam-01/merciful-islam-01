@@ -12,7 +12,7 @@ Past
 
 Present
 - I moved to Malaysia, pursuing my Bachelor degree in Computer Science (Cyber Security) at APU/APIIT, one of Malaysia's top tech university and took dual degree affiliated with De Montfort University (DMU), UK.
-- Learning Cybersecurity and German little by little, working toward my dream of studying in Germany.
+- Learning Cybersecurity and improving my German gradually while working toward my long-term goals.
 
 Future goal
 - Ich liebe Deutschland, want to pursue my MSc in Cyber Security in Germany.
