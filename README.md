@@ -15,7 +15,7 @@ Present
 - Learning Cybersecurity and German little by little, working toward my dream of studying in Germany.
 
 Future goal
-- Ich liebe Deutschland. I want to pursue my MSc in Cyber Security in Germany.
+- Ich liebe Deutschland, want to pursue my MSc in Cyber Security in Germany.
 - Every small step counts — and building [🔗 German A1 Learning Moto](https://merciful-islam-01.github.io/german-a1-learning-website) this website was one of them.
 
 ## My Projects
