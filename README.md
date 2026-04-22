@@ -23,7 +23,8 @@ Future goal
 - [🔗 European A1 Learning Hub](https://merciful-islam-01.github.io/European-A1-Language-Hub/)
 
 ## Skills
-- HTML, CSS, Python
+- HTML, CSS, JavaScript
+- Python automation
 - Linux
 - Networking
 
