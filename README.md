@@ -29,7 +29,7 @@ Future goal
 
 ## Contact
 - Email:  <a href="mailto:merciful.islam.work@gmail.com">merciful.islam.work@gmail.com</a>
-- 
+- LinkedIn: <a href="https://www.linkedin.com/in/merciful-islam-cs/" target="_blank">linkedin.com/in/merciful-islam-cs</a>
 <!--
 **merciful-islam-01/merciful-islam-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
