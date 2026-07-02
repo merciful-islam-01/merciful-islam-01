@@ -12,18 +12,17 @@ Past
 
 Present
 - I moved to Malaysia, pursuing my Bachelor degree in Computer Science (Cyber Security) at APU/APIIT, one of Malaysia's top tech university and took dual degree affiliated with De Montfort University (DMU), UK.
-- Learning Cybersecurity and improving my German gradually while working toward my long-term goals.
+- Improving gradually toward my long-term goal of being DevSecOps Engineer.
 
 Future goal
-- Ich liebe Deutschland, want to pursue my MSc in Cyber Security in Germany.
-- Every small step counts — and building [🔗 German A1 Learning Moto](https://merciful-islam-01.github.io/german-a1-learning-website) this website was one of them.
+- Every small steps count — and building projects are the best for growth.
 
 ## My Projects
 - [🔗 German A1 Learning Website](https://merciful-islam-01.github.io/german-a1-learning-website)
 - [🔗 European A1 Learning Hub](https://merciful-islam-01.github.io/European-A1-Language-Hub/)
 
 ## Skills
-- HTML, CSS, JavaScript
+- HTML, CSS, Java
 - Python automation
 - Linux
 - Networking
