@@ -18,6 +18,8 @@ Future goal
 - Every small steps count — and building projects are the best for growth.
 
 ## My Projects
+- 🏥 [Hospital Management System](https://github.com/merciful-islam-01/Hospital-Management-System)  
+  Role-based Java Swing desktop application with Doctor, Patient, Medical Manager and Admin portals.
 - [🔗 German A1 Learning Website](https://merciful-islam-01.github.io/german-a1-learning-website)
 - [🔗 European A1 Learning Hub](https://merciful-islam-01.github.io/European-A1-Language-Hub/)
 
