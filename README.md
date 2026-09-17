@@ -115,36 +115,34 @@ learning resources through a simple web interface.
 
 ## 🔐 DevSecOps Journey
 
-I'm currently building the foundation required for DevSecOps by developing
-skills across:
+I'm building my DevSecOps foundation by developing skills across **software development, Linux, cybersecurity, version control, and automation**.
 
-`Development` → `Linux` → `Git` → `Cybersecurity` → `Automation` → `DevSecOps`
+My goal is to understand not only how software is built, but also how it can be **tested, secured, delivered, and maintained reliably** throughout the development lifecycle.
 
-My current focus is on strengthening my programming and system administration
-fundamentals before progressively moving deeper into areas such as:
+### Currently Building Foundations In
+`Development` • `Linux` • `Git/GitHub` • `Cybersecurity` • `Automation`
 
-- CI/CD
-- Docker and containerization
-- Cloud platforms
-- Infrastructure as Code
+### Next Areas of Focus
+- CI/CD pipelines
+- Docker & containerization
+- Cloud fundamentals
+- Infrastructure as Code (IaC)
 - Automated security testing
-- Secure CI/CD pipelines
-- Application and dependency security
+- Application & dependency security
+- Secure CI/CD practices
 
-I prefer learning these technologies through **hands-on projects** rather than
-only theoretical study.
+I learn best through **hands-on projects**, gradually applying new technologies as my foundation becomes stronger.
 
 ---
 
-## 🎯 What I'm Currently Working On
+## 🎯 Current Focus
 
-- ☕ Improving my Java development skills
-- 🔐 Strengthening cybersecurity fundamentals
-- 🐧 Becoming more comfortable working with Linux
-- 🌿 Using Git and GitHub for project version control
-- ⚙️ Learning automation through practical tasks
-- 🛡️ Building toward secure software development and DevSecOps
-- 📂 Expanding my GitHub with practical projects as I learn
+- ☕ Strengthening **Java, OOP, and software development**
+- 🐧 Building stronger **Linux and command-line** skills
+- 🔐 Developing practical **cybersecurity** knowledge
+- 🌿 Using **Git & GitHub** consistently for version control
+- ⚙️ Learning **automation** through hands-on practice
+- 🚀 Progressing toward **DevSecOps engineering**
 
 ---
 
