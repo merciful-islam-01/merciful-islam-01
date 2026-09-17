@@ -148,14 +148,6 @@ only theoretical study.
 
 ---
 
-## 📈 GitHub Activity
-
-![Merciful's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merciful-islam-01&show_icons=true&hide_border=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=merciful-islam-01&layout=compact&hide_border=true&theme=github_dark)
-
----
-
 ## 🤝 Open to Opportunities
 
 I'm interested in opportunities where I can **learn, contribute, and gain
